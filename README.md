@@ -5,6 +5,8 @@ DevOps -
 https://medium.com/@helymarleena/devops-vs-gamedev-software-engineering-80b4b73bdc81
 DevOps vs. GameDev Software Engineering
 
+https://blog.eduonix.com/software-development/game-development-future-devops/
+
 terminologia - abreviações
 
 ferramentas e conceitos
