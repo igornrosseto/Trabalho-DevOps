@@ -22,6 +22,7 @@ https://blog.mandic.com.br/artigos/devops-e-jenkins-pipeline-como-conectar-o-des
 
 Continuous Integration
 https://en.wikipedia.org/wiki/Continuous_integration
+https://aws.amazon.com/pt/devops/continuous-integration/
 
 exemplo artigo riot games
 
