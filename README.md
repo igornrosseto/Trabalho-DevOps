@@ -1,7 +1,8 @@
 # Trabalho-DevOps
 
 TODO:
-Implementar Indice: 
+Implementar Indice - Video Kog - Script Teste Automático
+
 Intro -3
 Oque é - 4  
 Integrando - 5 a 6
@@ -10,7 +11,7 @@ Django - 8
 Jenkins - 9
 LOL - 10
 LOL Artigo - 11 a 22
-Biblio - 23
+Bibliografia 23
 ---------------------------------------------------------------------------
 
 DevOps em GameDev com aplicação de automação de testes em League of Legends
