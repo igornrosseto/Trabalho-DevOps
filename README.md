@@ -1,4 +1,18 @@
 # Trabalho-DevOps
+
+TODO:
+Implementar Indice: 
+Intro -3
+Oque é - 4  
+Integrando - 5 a 6
+Integração continua - 7
+Django - 8  
+Jenkins - 9
+LOL - 10
+LOL Artigo - 11 a 22
+Biblio - 23
+---------------------------------------------------------------------------
+
 DevOps em GameDev com aplicação de automação de testes em League of Legends
 
 DevOps - Introdução
@@ -25,5 +39,5 @@ https://en.wikipedia.org/wiki/Jenkins_(software)
 exemplo artigo riot games
 
 Automated Testing for League of Legends
-
+https://pt.wikipedia.org/wiki/League_of_Legends
 https://technology.riotgames.com/news/automated-testing-league-legends
