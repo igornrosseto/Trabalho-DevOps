@@ -19,7 +19,7 @@ https://tutorial.djangogirls.org/pt/django/
 
 
 Jenkins
-https://blog.mandic.com.br/artigos/devops-e-jenkins-pipeline-como-conectar-o-desenvolvimento-a-entrega-de-software/
+https://en.wikipedia.org/wiki/Jenkins_(software)
 
 
 exemplo artigo riot games
