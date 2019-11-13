@@ -1,9 +1,5 @@
 # Trabalho-DevOps
 
-TODO:
-Video Kog - Print Script Teste Automático
-
-
 ---------------------------------------------------------------------------
 
 DevOps em GameDev com aplicação de automação de testes em League of Legends
