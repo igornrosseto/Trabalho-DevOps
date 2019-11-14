@@ -8,8 +8,6 @@ DevOps - Introdução
 
 https://blog.eduonix.com/software-development/game-development-future-devops/
 
-terminologia - abreviações
-
 ferramentas e conceitos
 
 Continuous Integration
